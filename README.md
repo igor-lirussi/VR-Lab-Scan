@@ -1,44 +1,30 @@
-# TemplateRepository
-**Template code for other repos**
+# VR-Lab-Scan
 ## Description 
-A repository used as a base, not to write all over again. 
-
-1. Generate a new repo with this one as a template
-2. Add **Description**
-3. Add **Tags**
-4. Add **.gitignore** (Add file-> Create New File -> Type ".gitignore" -> Choose .gitignore -> Commit)
-5. Review **Licence** (Add file-> Create New File -> Type "LICENCE" -> Choose a licence template -> Review and submit)
-6. Change **image result** in /img/result.jpg
-7. Change **image preview** in settings 
-8. Edit this **README**
+A Virtual Reality reconstruction of the laboratory, used as a base environment for some cognitive experiments, to reduce the bias between real and virtual experience.
 
 ### Topics:
-- Repository 
-- Template
-- Code Automation
+- VR Virtual-Reality 
+- 3D Scan
 
 ## Result
 ![Result](./img/result.jpg)
 
 ## Requirements & Dependencies
-- Programming Language
-- Libraries
+- Unity 2021.3
+- Any Headset
 
-## Install 
-*   clone in the route directory
-*   ```./install.sh```
-
-## Run
-```bash
-execution command
-```
+## Install and Run
+- Clone the repository
+- Open with UnityHub
+- Connect your device
+- Run the app
 
 ## Useful Resources & Extra
 - Links
 - Resources
 
 ## Authors
-* **Igor Lirussi** @ BOUN Boğaziçi University - CoLoRs (Cognitive Learning and Robotics) Lab
+* **Igor Lirussi** @ BOUN Boğaziçi University - BuViar Lab
 
 ## Acknowledgments
 *   All the people that contributed with suggestions and tips.
