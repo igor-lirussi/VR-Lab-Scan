@@ -2,6 +2,8 @@
 ## Description 
 A Virtual Reality reconstruction of the laboratory, used as a base environment for some cognitive experiments, to reduce the bias between real and virtual experience.
 
+[[All my VR Projects here]](https://github.com/igor-lirussi?tab=repositories&q=virtual-reality)
+
 ### Topics:
 - VR Virtual-Reality 
 - 3D Scan
@@ -20,6 +22,8 @@ A Virtual Reality reconstruction of the laboratory, used as a base environment f
 - Run the app
 
 ## Useful Resources & Extra
+- Notes
+  - When adding the asset, if the cameras have been moved, the scan will not correspond to reality. It is faster to change the position in Unity of the Lab asset playing, testing real-time with the controllers the walls. Save the new coordinates and edit the project.
 - Links
 - Resources
 
